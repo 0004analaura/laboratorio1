@@ -1,0 +1,5 @@
+dog=perro
+char=silla
+table=mesa
+pig=cerdo
+cat=gato
